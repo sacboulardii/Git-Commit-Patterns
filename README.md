@@ -235,9 +235,6 @@ Commitizen possibilita impor um formato de mensagem de commit utilizando a linha
 <img src="commitlint-example.png" />
 <br>
 
-[Padronização de commit com commitlint, husky e commitizen](https://dev.to/vitordevsp/padronizacao-de-commit-com-commitlint-husky-e-commitizen-3g1n )
-<br>
-<br>
 🔌 Extensões do Visual Studio Code que auxiliam na criação de um commit padronizado:
 
 [Git Commit Plugin](https://marketplace.visualstudio.com/items?itemName=redjue.git-commit-plugin) 
@@ -245,3 +242,10 @@ Commitizen possibilita impor um formato de mensagem de commit utilizando a linha
 [VSCode Conventional Commits](https://marketplace.visualstudio.com/items?itemName=vivaxy.vscode-conventional-commits)
 
 [Commit Message Editor](https://marketplace.visualstudio.com/items?itemName=adam-bender.commit-message-editor)
+<br>
+## References
+* https://www.conventionalcommits.org/
+* http://karma-runner.github.io/1.0/dev/git-commit-msg.html
+* https://nitayneeman.com/posts/understanding-semantic-commit-messages-using-git-and-angular/
+* https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13
+<br>
