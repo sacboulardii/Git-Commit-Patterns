@@ -230,6 +230,7 @@ Commitizen possibilita impor um formato de mensagem de commit utilizando a linha
 
 [![Add and commit with Commitizen](https://github.com/commitizen/cz-cli/raw/master/meta/screenshots/add-commit.png)](https://github.com/commitizen/cz-cli/raw/master/meta/screenshots/add-commit.png)
 <br>
+<br>
 [commitlint](https://commitlint.js.org/#/) verifica se a mensagem de commit está dentro dos padrões pré definidos e também permite criar o nosso próprio padrão de commit. A documentação ensina a automatizar o lint no projeto.
 <img src="commitlint-example.png" />
 <br>
